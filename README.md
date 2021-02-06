@@ -1,2 +1,2 @@
 # SleepAIClassification
-Sleep Level Classification Hackathon with SNUH (~Ing)
+Sleep Level Classification Hackathon with SNUH (~End)
